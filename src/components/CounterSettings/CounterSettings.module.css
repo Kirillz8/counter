@@ -1,0 +1,47 @@
+.counterSettingsContainer {
+    margin: 0 auto;
+    border: 3px solid #4befef;
+    border-radius: 5px;
+    min-width: 200px;
+    width: 100%;
+    min-height: 230px;
+}
+
+.counterSettingsInputs {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    min-height: 170px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: 3px solid #4befef;
+    border-radius: 5px;
+    color: #4befef;
+}
+
+.counterSettingsLabels {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.counterSettingsInput {
+    min-width: 50px;
+    height: 30px;
+    border: 3px solid #4befef;
+    border-radius: 5px;
+    margin-left: 110px;
+}
+
+.counterButtonContainer {
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    border: 3px solid #4befef;
+    border-radius: 5px;
+    align-items: flex-end;
+    justify-content: space-around;
+    gap: 10px;
+}
